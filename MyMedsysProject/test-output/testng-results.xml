@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="11" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-07T01:59:09 WAT" name="Suite" finished-at="2023-09-07T02:03:25 WAT" duration-ms="256072">
+    <groups>
+      <group name="Sanity">
+        <method signature="DashboardPageTest.clickOndashboardBellicon()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="clickOndashboardBellicon" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.managePatient()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="managePatient" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.newpatientbtn()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="newpatientbtn" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.patientsearch()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="patientsearch" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.profileAccount()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="profileAccount" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.verifyDashboardLogo()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="verifyDashboardLogo" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="DashboardPageTest.headerpatientbtn()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="headerpatientbtn" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.newpatientbtn()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="newpatientbtn" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.patientsearch()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="patientsearch" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="DashboardPageTest.managePatient()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="managePatient" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.selectPatientDropdown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="selectPatientDropdown" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+        <method signature="DashboardPageTest.userAccountSignOutBtn()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" name="userAccountSignOutBtn" class="com.mymedsysproject.testcases.DashboardPageTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-09-07T01:59:09 WAT" name="Test_All" finished-at="2023-09-07T02:03:25 WAT" duration-ms="256072">
+      <class name="com.mymedsysproject.testcases.DashboardPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:00:29 WAT" name="setUp" finished-at="2023-09-07T02:00:40 WAT" duration-ms="10800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOndashboardBellicon()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:00:40 WAT" name="clickOndashboardBellicon" finished-at="2023-09-07T02:00:51 WAT" duration-ms="11356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOndashboardBellicon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:00:51 WAT" name="tearDown" finished-at="2023-09-07T02:00:51 WAT" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:00:51 WAT" name="setUp" finished-at="2023-09-07T02:01:07 WAT" duration-ms="15628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="headerpatientbtn()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:07 WAT" name="headerpatientbtn" finished-at="2023-09-07T02:01:13 WAT" duration-ms="5987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerpatientbtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:13 WAT" name="tearDown" finished-at="2023-09-07T02:01:13 WAT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:13 WAT" name="setUp" finished-at="2023-09-07T02:01:25 WAT" duration-ms="11932" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="managePatient()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:25 WAT" name="managePatient" finished-at="2023-09-07T02:01:30 WAT" duration-ms="5089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- managePatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:30 WAT" name="tearDown" finished-at="2023-09-07T02:01:30 WAT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:30 WAT" name="setUp" finished-at="2023-09-07T02:01:38 WAT" duration-ms="8055" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newpatientbtn()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:38 WAT" name="newpatientbtn" finished-at="2023-09-07T02:01:44 WAT" duration-ms="5980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newpatientbtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:44 WAT" name="tearDown" finished-at="2023-09-07T02:01:45 WAT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:45 WAT" name="setUp" finished-at="2023-09-07T02:01:54 WAT" duration-ms="9835" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="patientsearch()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:01:54 WAT" name="patientsearch" finished-at="2023-09-07T02:02:01 WAT" duration-ms="6240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patientsearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:01 WAT" name="tearDown" finished-at="2023-09-07T02:02:01 WAT" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:01 WAT" name="setUp" finished-at="2023-09-07T02:02:16 WAT" duration-ms="15123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="profileAccount()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:16 WAT" name="profileAccount" finished-at="2023-09-07T02:02:21 WAT" duration-ms="5103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:21 WAT" name="tearDown" finished-at="2023-09-07T02:02:21 WAT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:21 WAT" name="setUp" finished-at="2023-09-07T02:02:41 WAT" duration-ms="20177" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectPatientDropdown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:41 WAT" name="selectPatientDropdown" finished-at="2023-09-07T02:02:47 WAT" duration-ms="5848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPatientDropdown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:47 WAT" name="tearDown" finished-at="2023-09-07T02:02:47 WAT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:47 WAT" name="setUp" finished-at="2023-09-07T02:02:58 WAT" duration-ms="11000" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userAccountSignOutBtn()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:02:58 WAT" name="userAccountSignOutBtn" finished-at="2023-09-07T02:03:03 WAT" duration-ms="4996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAccountSignOutBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:03:03 WAT" name="tearDown" finished-at="2023-09-07T02:03:04 WAT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:03:04 WAT" name="setUp" finished-at="2023-09-07T02:03:20 WAT" duration-ms="16621" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDashboardLogo()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:03:20 WAT" name="verifyDashboardLogo" finished-at="2023-09-07T02:03:25 WAT" duration-ms="4949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.DashboardPageTest@49438269]" started-at="2023-09-07T02:03:25 WAT" name="tearDown" finished-at="2023-09-07T02:03:25 WAT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mymedsysproject.testcases.DashboardPageTest -->
+      <class name="com.mymedsysproject.testcases.LoginPageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:09 WAT" name="loadConfig" finished-at="2023-09-07T01:59:09 WAT" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:10 WAT" name="setUp" finished-at="2023-09-07T01:59:36 WAT" duration-ms="25414" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:36 WAT" name="LoginTest" data-provider="logindata" finished-at="2023-09-07T01:59:41 WAT" duration-ms="5797" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@rfect3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BDW20211001]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://dev-ehrpm.automedsys.net/dashboard] but found [https://dev-ehrpm.automedsys.net/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://dev-ehrpm.automedsys.net/dashboard] but found [https://dev-ehrpm.automedsys.net/]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.mymedsysproject.testcases.LoginPageTest.LoginTest(LoginPageTest.java:61)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:42 WAT" name="tearDown" finished-at="2023-09-07T01:59:42 WAT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:42 WAT" name="setUp" finished-at="2023-09-07T01:59:50 WAT" duration-ms="7852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:50 WAT" name="LoginTest" data-provider="logindata" finished-at="2023-09-07T01:59:55 WAT" duration-ms="5686" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[deji@automedsys.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@rfect2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aal20201001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:55 WAT" name="tearDown" finished-at="2023-09-07T01:59:55 WAT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T01:59:55 WAT" name="setUp" finished-at="2023-09-07T02:00:10 WAT" duration-ms="14914" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T02:00:10 WAT" name="LoginTest" data-provider="logindata" finished-at="2023-09-07T02:00:16 WAT" duration-ms="5556" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://dev-ehrpm.automedsys.net/dashboard] but found [https://dev-ehrpm.automedsys.net/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://dev-ehrpm.automedsys.net/dashboard] but found [https://dev-ehrpm.automedsys.net/]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.mymedsysproject.testcases.LoginPageTest.LoginTest(LoginPageTest.java:61)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T02:00:16 WAT" name="tearDown" finished-at="2023-09-07T02:00:16 WAT" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T02:00:16 WAT" name="setUp" finished-at="2023-09-07T02:00:29 WAT" duration-ms="12735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLogotest()[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T02:00:29 WAT" name="VerifyLogotest" finished-at="2023-09-07T02:00:29 WAT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogotest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T02:00:29 WAT" name="tearDown" finished-at="2023-09-07T02:00:29 WAT" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.mymedsysproject.testcases.LoginPageTest@4b2bac3f]" started-at="2023-09-07T02:03:25 WAT" name="afterSuite" finished-at="2023-09-07T02:03:26 WAT" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.mymedsysproject.testcases.LoginPageTest -->
+    </test> <!-- Test_All -->
+  </suite> <!-- Suite -->
+</testng-results>

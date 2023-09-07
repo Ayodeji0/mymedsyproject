@@ -1,0 +1,852 @@
+[INFO ] 2023-09-02 00:00:58.286 [main] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 00:00:58.300 [main] Log - 
+[INFO ] 2023-09-02 00:00:58.316 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:00:58.316 [main] Log - 
+[INFO ] 2023-09-02 00:01:07.212 [main] Log - To The Url Is Correct
+[FATAL] 2023-09-02 00:01:07.219 [main] Log - 
+[INFO ] 2023-09-02 00:01:07.223 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:01:07.223 [main] Log - 
+[INFO ] 2023-09-02 00:01:07.224 [main] Log - =====================================clickOndashboardBellicon TEST END=========================================
+[ERROR] 2023-09-02 00:01:07.224 [main] Log - 
+[INFO ] 2023-09-02 00:01:22.574 [main] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:01:22.575 [main] Log - 
+[INFO ] 2023-09-02 00:01:22.575 [main] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 00:01:22.575 [main] Log - 
+[INFO ] 2023-09-02 00:01:28.556 [main] Log - This Is To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:01:28.556 [main] Log - 
+[INFO ] 2023-09-02 00:01:28.556 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:01:28.556 [main] Log - 
+[INFO ] 2023-09-02 00:01:28.556 [main] Log - =====================================headerpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:01:28.557 [main] Log - 
+[INFO ] 2023-09-02 00:01:42.652 [main] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 00:01:42.653 [main] Log - 
+[INFO ] 2023-09-02 00:01:42.653 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:01:42.653 [main] Log - 
+[INFO ] 2023-09-02 00:01:47.511 [main] Log - This Is To Confirm If The Url is Correct Or Not
+[FATAL] 2023-09-02 00:01:47.511 [main] Log - 
+[INFO ] 2023-09-02 00:01:47.512 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:01:47.512 [main] Log - 
+[INFO ] 2023-09-02 00:01:47.512 [main] Log - =====================================managePatient TEST END=========================================
+[ERROR] 2023-09-02 00:01:47.512 [main] Log - 
+[INFO ] 2023-09-02 00:01:58.264 [main] Log - =====================================newpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:01:58.265 [main] Log - 
+[INFO ] 2023-09-02 00:01:58.265 [main] Log - User To Enter Their Details
+[FATAL] 2023-09-02 00:01:58.265 [main] Log - 
+[INFO ] 2023-09-02 00:02:04.291 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:02:04.291 [main] Log - 
+[INFO ] 2023-09-02 00:02:04.291 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:02:04.291 [main] Log - 
+[INFO ] 2023-09-02 00:02:04.291 [main] Log - =====================================newpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:02:04.291 [main] Log - 
+[INFO ] 2023-09-02 00:02:20.798 [main] Log - =====================================patientsearch TEST START=========================================
+[INFO ] 2023-09-02 00:02:20.798 [main] Log - 
+[INFO ] 2023-09-02 00:02:20.798 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:02:20.799 [main] Log - 
+[INFO ] 2023-09-02 00:02:26.475 [main] Log - Patient Name In Search To Be Entered Here
+[FATAL] 2023-09-02 00:02:26.475 [main] Log - 
+[INFO ] 2023-09-02 00:02:27.004 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:02:27.004 [main] Log - 
+[INFO ] 2023-09-02 00:02:27.004 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:02:27.004 [main] Log - 
+[INFO ] 2023-09-02 00:02:27.004 [main] Log - =====================================patientsearch TEST END=========================================
+[ERROR] 2023-09-02 00:02:27.004 [main] Log - 
+[INFO ] 2023-09-02 00:02:45.754 [main] Log - =====================================profileAccount TEST START=========================================
+[INFO ] 2023-09-02 00:02:45.754 [main] Log - 
+[INFO ] 2023-09-02 00:02:45.754 [main] Log - User To Enter Their Details 
+[FATAL] 2023-09-02 00:02:45.754 [main] Log - 
+[INFO ] 2023-09-02 00:02:51.058 [main] Log - To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:02:51.058 [main] Log - 
+[INFO ] 2023-09-02 00:02:51.058 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:02:51.058 [main] Log - 
+[INFO ] 2023-09-02 00:02:51.058 [main] Log - =====================================profileAccount TEST END=========================================
+[ERROR] 2023-09-02 00:02:51.058 [main] Log - 
+[INFO ] 2023-09-02 00:03:16.028 [main] Log - =====================================selectPatientDropdown TEST START=========================================
+[INFO ] 2023-09-02 00:03:16.029 [main] Log - 
+[INFO ] 2023-09-02 00:03:16.029 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:03:16.029 [main] Log - 
+[INFO ] 2023-09-02 00:03:21.726 [main] Log - The Action Is Carried Out Here
+[FATAL] 2023-09-02 00:03:21.726 [main] Log - 
+[INFO ] 2023-09-02 00:03:21.897 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:03:21.897 [main] Log - 
+[INFO ] 2023-09-02 00:03:21.897 [main] Log - =====================================selectPatientDropdown TEST END=========================================
+[ERROR] 2023-09-02 00:03:21.897 [main] Log - 
+[INFO ] 2023-09-02 00:03:38.396 [main] Log - =====================================userAccountSignOutBtn TEST START=========================================
+[INFO ] 2023-09-02 00:03:38.396 [main] Log - 
+[INFO ] 2023-09-02 00:03:38.397 [main] Log - User Enters Their Details Here
+[FATAL] 2023-09-02 00:03:38.397 [main] Log - 
+[INFO ] 2023-09-02 00:03:43.383 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:03:43.383 [main] Log - 
+[INFO ] 2023-09-02 00:03:43.383 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:03:43.383 [main] Log - 
+[INFO ] 2023-09-02 00:03:43.383 [main] Log - =====================================userAccountSignOutBtn TEST END=========================================
+[ERROR] 2023-09-02 00:03:43.383 [main] Log - 
+[INFO ] 2023-09-02 00:03:57.880 [main] Log - =====================================verifyDashboardLogo TEST START=========================================
+[INFO ] 2023-09-02 00:03:57.880 [main] Log - 
+[INFO ] 2023-09-02 00:03:58.549 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:03:58.549 [main] Log - 
+[INFO ] 2023-09-02 00:04:02.182 [main] Log - The Test Confirm The Logo Is Present
+[FATAL] 2023-09-02 00:04:02.182 [main] Log - 
+[INFO ] 2023-09-02 00:04:02.183 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:04:02.183 [main] Log - 
+[INFO ] 2023-09-02 00:04:02.183 [main] Log - =====================================verifyDashboardLogo TEST END=========================================
+[ERROR] 2023-09-02 00:04:02.183 [main] Log - 
+[INFO ] 2023-09-02 00:06:10.881 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:06:10.885 [main] Log - 
+[INFO ] 2023-09-02 00:06:10.899 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:06:10.899 [main] Log - 
+[INFO ] 2023-09-02 00:06:16.571 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:06:16.571 [main] Log - 
+[INFO ] 2023-09-02 00:06:29.045 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:06:29.046 [main] Log - 
+[INFO ] 2023-09-02 00:06:29.046 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:06:29.047 [main] Log - 
+[INFO ] 2023-09-02 00:06:34.744 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:06:34.744 [main] Log - 
+[INFO ] 2023-09-02 00:06:34.770 [main] Log - LoginTest Test Completed
+[FATAL] 2023-09-02 00:06:34.771 [main] Log - 
+[INFO ] 2023-09-02 00:06:34.771 [main] Log - =====================================LoginTest TEST END=========================================
+[ERROR] 2023-09-02 00:06:34.771 [main] Log - 
+[INFO ] 2023-09-02 00:06:54.336 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:06:54.336 [main] Log - 
+[INFO ] 2023-09-02 00:06:54.336 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:06:54.337 [main] Log - 
+[INFO ] 2023-09-02 00:06:59.861 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:06:59.861 [main] Log - 
+[INFO ] 2023-09-02 00:07:08.331 [main] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 00:07:08.331 [main] Log - 
+[INFO ] 2023-09-02 00:07:08.381 [main] Log - Logo Confirmed
+[FATAL] 2023-09-02 00:07:08.382 [main] Log - 
+[INFO ] 2023-09-02 00:07:08.382 [main] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 00:07:08.382 [main] Log - 
+[INFO ] 2023-09-02 00:07:08.382 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:07:08.382 [main] Log - 
+[INFO ] 2023-09-02 00:07:08.382 [main] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 00:07:08.382 [main] Log - 
+[INFO ] 2023-09-02 00:07:17.137 [main] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 00:07:17.137 [main] Log - 
+[INFO ] 2023-09-02 00:07:17.137 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:07:17.138 [main] Log - 
+[INFO ] 2023-09-02 00:07:23.102 [main] Log - To The Url Is Correct
+[FATAL] 2023-09-02 00:07:23.102 [main] Log - 
+[INFO ] 2023-09-02 00:07:23.103 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:07:23.103 [main] Log - 
+[INFO ] 2023-09-02 00:07:23.103 [main] Log - =====================================clickOndashboardBellicon TEST END=========================================
+[ERROR] 2023-09-02 00:07:23.103 [main] Log - 
+[INFO ] 2023-09-02 00:07:28.678 [main] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:07:28.678 [main] Log - 
+[INFO ] 2023-09-02 00:07:28.678 [main] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 00:07:28.678 [main] Log - 
+[INFO ] 2023-09-02 00:07:34.635 [main] Log - This Is To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:07:34.635 [main] Log - 
+[INFO ] 2023-09-02 00:07:34.635 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:07:34.635 [main] Log - 
+[INFO ] 2023-09-02 00:07:34.635 [main] Log - =====================================headerpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:07:34.635 [main] Log - 
+[INFO ] 2023-09-02 00:07:45.515 [main] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 00:07:45.515 [main] Log - 
+[INFO ] 2023-09-02 00:07:45.515 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:07:45.515 [main] Log - 
+[INFO ] 2023-09-02 00:07:50.672 [main] Log - This Is To Confirm If The Url is Correct Or Not
+[FATAL] 2023-09-02 00:07:50.672 [main] Log - 
+[INFO ] 2023-09-02 00:07:50.672 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:07:50.672 [main] Log - 
+[INFO ] 2023-09-02 00:07:50.673 [main] Log - =====================================managePatient TEST END=========================================
+[ERROR] 2023-09-02 00:07:50.673 [main] Log - 
+[INFO ] 2023-09-02 00:07:56.222 [main] Log - =====================================newpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:07:56.222 [main] Log - 
+[INFO ] 2023-09-02 00:07:56.223 [main] Log - User To Enter Their Details
+[FATAL] 2023-09-02 00:07:56.223 [main] Log - 
+[INFO ] 2023-09-02 00:08:02.261 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:08:02.261 [main] Log - 
+[INFO ] 2023-09-02 00:08:02.261 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:08:02.261 [main] Log - 
+[INFO ] 2023-09-02 00:08:02.261 [main] Log - =====================================newpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:08:02.261 [main] Log - 
+[INFO ] 2023-09-02 00:08:08.493 [main] Log - =====================================patientsearch TEST START=========================================
+[INFO ] 2023-09-02 00:08:08.493 [main] Log - 
+[INFO ] 2023-09-02 00:08:08.494 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:08:08.494 [main] Log - 
+[INFO ] 2023-09-02 00:08:14.148 [main] Log - Patient Name In Search To Be Entered Here
+[FATAL] 2023-09-02 00:08:14.148 [main] Log - 
+[INFO ] 2023-09-02 00:08:14.663 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:08:14.664 [main] Log - 
+[INFO ] 2023-09-02 00:08:14.664 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:08:14.664 [main] Log - 
+[INFO ] 2023-09-02 00:08:14.664 [main] Log - =====================================patientsearch TEST END=========================================
+[ERROR] 2023-09-02 00:08:14.664 [main] Log - 
+[INFO ] 2023-09-02 00:08:23.662 [main] Log - =====================================profileAccount TEST START=========================================
+[INFO ] 2023-09-02 00:08:23.662 [main] Log - 
+[INFO ] 2023-09-02 00:08:23.662 [main] Log - User To Enter Their Details 
+[FATAL] 2023-09-02 00:08:23.662 [main] Log - 
+[INFO ] 2023-09-02 00:08:29.107 [main] Log - To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:08:29.108 [main] Log - 
+[INFO ] 2023-09-02 00:08:29.108 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:08:29.108 [main] Log - 
+[INFO ] 2023-09-02 00:08:29.108 [main] Log - =====================================profileAccount TEST END=========================================
+[ERROR] 2023-09-02 00:08:29.108 [main] Log - 
+[INFO ] 2023-09-02 00:08:34.284 [main] Log - =====================================selectPatientDropdown TEST START=========================================
+[INFO ] 2023-09-02 00:08:34.284 [main] Log - 
+[INFO ] 2023-09-02 00:08:34.284 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:08:34.284 [main] Log - 
+[INFO ] 2023-09-02 00:08:39.986 [main] Log - The Action Is Carried Out Here
+[FATAL] 2023-09-02 00:08:39.986 [main] Log - 
+[INFO ] 2023-09-02 00:08:40.161 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:08:40.161 [main] Log - 
+[INFO ] 2023-09-02 00:08:40.161 [main] Log - =====================================selectPatientDropdown TEST END=========================================
+[ERROR] 2023-09-02 00:08:40.161 [main] Log - 
+[INFO ] 2023-09-02 00:08:50.164 [main] Log - =====================================userAccountSignOutBtn TEST START=========================================
+[INFO ] 2023-09-02 00:08:50.164 [main] Log - 
+[INFO ] 2023-09-02 00:08:50.164 [main] Log - User Enters Their Details Here
+[FATAL] 2023-09-02 00:08:50.165 [main] Log - 
+[INFO ] 2023-09-02 00:08:56.164 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:08:56.164 [main] Log - 
+[INFO ] 2023-09-02 00:08:56.164 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:08:56.164 [main] Log - 
+[INFO ] 2023-09-02 00:08:56.164 [main] Log - =====================================userAccountSignOutBtn TEST END=========================================
+[ERROR] 2023-09-02 00:08:56.165 [main] Log - 
+[INFO ] 2023-09-02 00:09:05.337 [main] Log - =====================================verifyDashboardLogo TEST START=========================================
+[INFO ] 2023-09-02 00:09:05.337 [main] Log - 
+[INFO ] 2023-09-02 00:09:06.056 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:09:06.056 [main] Log - 
+[INFO ] 2023-09-02 00:09:09.895 [main] Log - The Test Confirm The Logo Is Present
+[FATAL] 2023-09-02 00:09:09.895 [main] Log - 
+[INFO ] 2023-09-02 00:09:09.895 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:09:09.895 [main] Log - 
+[INFO ] 2023-09-02 00:09:09.895 [main] Log - =====================================verifyDashboardLogo TEST END=========================================
+[ERROR] 2023-09-02 00:09:09.895 [main] Log - 
+[INFO ] 2023-09-02 00:10:48.977 [main] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 00:10:48.979 [main] Log - 
+[INFO ] 2023-09-02 00:10:48.995 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:10:48.995 [main] Log - 
+[INFO ] 2023-09-02 00:32:42.250 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:32:42.253 [main] Log - 
+[INFO ] 2023-09-02 00:32:42.272 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:32:42.273 [main] Log - 
+[INFO ] 2023-09-02 00:32:47.988 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:32:47.988 [main] Log - 
+[INFO ] 2023-09-02 00:33:02.492 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:33:02.492 [main] Log - 
+[INFO ] 2023-09-02 00:33:02.493 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:33:02.493 [main] Log - 
+[INFO ] 2023-09-02 00:33:08.231 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:33:08.231 [main] Log - 
+[INFO ] 2023-09-02 00:33:25.033 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:33:25.033 [main] Log - 
+[INFO ] 2023-09-02 00:33:25.034 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:33:25.034 [main] Log - 
+[INFO ] 2023-09-02 00:33:30.581 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:33:30.581 [main] Log - 
+[INFO ] 2023-09-02 00:33:39.961 [main] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 00:33:39.961 [main] Log - 
+[INFO ] 2023-09-02 00:33:40.009 [main] Log - Logo Confirmed
+[FATAL] 2023-09-02 00:33:40.009 [main] Log - 
+[INFO ] 2023-09-02 00:33:40.009 [main] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 00:33:40.009 [main] Log - 
+[INFO ] 2023-09-02 00:33:40.009 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:33:40.009 [main] Log - 
+[INFO ] 2023-09-02 00:33:40.009 [main] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 00:33:40.009 [main] Log - 
+[INFO ] 2023-09-02 00:33:45.455 [main] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 00:33:45.455 [main] Log - 
+[INFO ] 2023-09-02 00:33:45.455 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:33:45.455 [main] Log - 
+[INFO ] 2023-09-02 00:33:51.403 [main] Log - To The Url Is Correct
+[FATAL] 2023-09-02 00:33:51.404 [main] Log - 
+[INFO ] 2023-09-02 00:33:51.404 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:33:51.404 [main] Log - 
+[INFO ] 2023-09-02 00:33:51.404 [main] Log - =====================================clickOndashboardBellicon TEST END=========================================
+[ERROR] 2023-09-02 00:33:51.404 [main] Log - 
+[INFO ] 2023-09-02 00:33:59.695 [main] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:33:59.695 [main] Log - 
+[INFO ] 2023-09-02 00:33:59.696 [main] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 00:33:59.696 [main] Log - 
+[INFO ] 2023-09-02 00:34:05.690 [main] Log - This Is To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:34:05.690 [main] Log - 
+[INFO ] 2023-09-02 00:34:05.690 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:34:05.690 [main] Log - 
+[INFO ] 2023-09-02 00:34:05.690 [main] Log - =====================================headerpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:34:05.690 [main] Log - 
+[INFO ] 2023-09-02 00:34:10.799 [main] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 00:34:10.799 [main] Log - 
+[INFO ] 2023-09-02 00:34:10.800 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:34:10.800 [main] Log - 
+[INFO ] 2023-09-02 00:34:15.999 [main] Log - This Is To Confirm If The Url is Correct Or Not
+[FATAL] 2023-09-02 00:34:15.999 [main] Log - 
+[INFO ] 2023-09-02 00:34:15.999 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:34:15.999 [main] Log - 
+[INFO ] 2023-09-02 00:34:15.999 [main] Log - =====================================managePatient TEST END=========================================
+[ERROR] 2023-09-02 00:34:16.000 [main] Log - 
+[INFO ] 2023-09-02 00:34:21.930 [main] Log - =====================================newpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:34:21.931 [main] Log - 
+[INFO ] 2023-09-02 00:34:21.931 [main] Log - User To Enter Their Details
+[FATAL] 2023-09-02 00:34:21.931 [main] Log - 
+[INFO ] 2023-09-02 00:34:27.998 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:34:27.998 [main] Log - 
+[INFO ] 2023-09-02 00:34:27.998 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:34:27.998 [main] Log - 
+[INFO ] 2023-09-02 00:34:27.998 [main] Log - =====================================newpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:34:27.998 [main] Log - 
+[INFO ] 2023-09-02 00:34:33.873 [main] Log - =====================================patientsearch TEST START=========================================
+[INFO ] 2023-09-02 00:34:33.873 [main] Log - 
+[INFO ] 2023-09-02 00:34:33.873 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:34:33.873 [main] Log - 
+[INFO ] 2023-09-02 00:34:39.514 [main] Log - Patient Name In Search To Be Entered Here
+[FATAL] 2023-09-02 00:34:39.514 [main] Log - 
+[INFO ] 2023-09-02 00:34:40.205 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:34:40.205 [main] Log - 
+[INFO ] 2023-09-02 00:34:40.205 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:34:40.205 [main] Log - 
+[INFO ] 2023-09-02 00:34:40.205 [main] Log - =====================================patientsearch TEST END=========================================
+[ERROR] 2023-09-02 00:34:40.205 [main] Log - 
+[INFO ] 2023-09-02 00:34:47.415 [main] Log - =====================================profileAccount TEST START=========================================
+[INFO ] 2023-09-02 00:34:47.415 [main] Log - 
+[INFO ] 2023-09-02 00:34:47.416 [main] Log - User To Enter Their Details 
+[FATAL] 2023-09-02 00:34:47.416 [main] Log - 
+[INFO ] 2023-09-02 00:34:52.235 [main] Log - To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:34:52.235 [main] Log - 
+[INFO ] 2023-09-02 00:34:52.235 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:34:52.235 [main] Log - 
+[INFO ] 2023-09-02 00:34:52.235 [main] Log - =====================================profileAccount TEST END=========================================
+[ERROR] 2023-09-02 00:34:52.235 [main] Log - 
+[INFO ] 2023-09-02 00:35:01.089 [main] Log - =====================================selectPatientDropdown TEST START=========================================
+[INFO ] 2023-09-02 00:35:01.089 [main] Log - 
+[INFO ] 2023-09-02 00:35:01.090 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:35:01.090 [main] Log - 
+[INFO ] 2023-09-02 00:35:06.744 [main] Log - The Action Is Carried Out Here
+[FATAL] 2023-09-02 00:35:06.744 [main] Log - 
+[INFO ] 2023-09-02 00:35:06.928 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:35:06.929 [main] Log - 
+[INFO ] 2023-09-02 00:35:06.929 [main] Log - =====================================selectPatientDropdown TEST END=========================================
+[ERROR] 2023-09-02 00:35:06.929 [main] Log - 
+[INFO ] 2023-09-02 00:35:12.352 [main] Log - =====================================userAccountSignOutBtn TEST START=========================================
+[INFO ] 2023-09-02 00:35:12.352 [main] Log - 
+[INFO ] 2023-09-02 00:35:12.353 [main] Log - User Enters Their Details Here
+[FATAL] 2023-09-02 00:35:12.353 [main] Log - 
+[INFO ] 2023-09-02 00:35:16.589 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:35:16.589 [main] Log - 
+[INFO ] 2023-09-02 00:35:16.589 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:35:16.589 [main] Log - 
+[INFO ] 2023-09-02 00:35:16.589 [main] Log - =====================================userAccountSignOutBtn TEST END=========================================
+[ERROR] 2023-09-02 00:35:16.589 [main] Log - 
+[INFO ] 2023-09-02 00:35:24.367 [main] Log - =====================================verifyDashboardLogo TEST START=========================================
+[INFO ] 2023-09-02 00:35:24.367 [main] Log - 
+[INFO ] 2023-09-02 00:35:25.034 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:35:25.034 [main] Log - 
+[INFO ] 2023-09-02 00:35:28.856 [main] Log - The Test Confirm The Logo Is Present
+[FATAL] 2023-09-02 00:35:28.856 [main] Log - 
+[INFO ] 2023-09-02 00:35:28.856 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:35:28.856 [main] Log - 
+[INFO ] 2023-09-02 00:35:28.856 [main] Log - =====================================verifyDashboardLogo TEST END=========================================
+[ERROR] 2023-09-02 00:35:28.856 [main] Log - 
+[INFO ] 2023-09-02 00:36:27.430 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:36:27.432 [main] Log - 
+[INFO ] 2023-09-02 00:36:27.452 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:36:27.452 [main] Log - 
+[INFO ] 2023-09-02 00:36:33.126 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:36:33.126 [main] Log - 
+[INFO ] 2023-09-02 00:36:42.865 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:36:42.866 [main] Log - 
+[INFO ] 2023-09-02 00:36:42.866 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:36:42.866 [main] Log - 
+[INFO ] 2023-09-02 00:36:48.560 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:36:48.560 [main] Log - 
+[INFO ] 2023-09-02 00:36:48.584 [main] Log - LoginTest Test Completed
+[FATAL] 2023-09-02 00:36:48.584 [main] Log - 
+[INFO ] 2023-09-02 00:36:48.584 [main] Log - =====================================LoginTest TEST END=========================================
+[ERROR] 2023-09-02 00:36:48.584 [main] Log - 
+[INFO ] 2023-09-02 00:37:01.965 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:37:01.965 [main] Log - 
+[INFO ] 2023-09-02 00:37:01.966 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:37:01.966 [main] Log - 
+[INFO ] 2023-09-02 00:37:07.492 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:37:07.492 [main] Log - 
+[INFO ] 2023-09-02 00:37:16.914 [main] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 00:37:16.914 [main] Log - 
+[INFO ] 2023-09-02 00:37:16.963 [main] Log - Logo Confirmed
+[FATAL] 2023-09-02 00:37:16.963 [main] Log - 
+[INFO ] 2023-09-02 00:37:16.963 [main] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 00:37:16.963 [main] Log - 
+[INFO ] 2023-09-02 00:37:16.963 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:37:16.963 [main] Log - 
+[INFO ] 2023-09-02 00:37:16.963 [main] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 00:37:16.963 [main] Log - 
+[INFO ] 2023-09-02 00:37:22.592 [main] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 00:37:22.592 [main] Log - 
+[INFO ] 2023-09-02 00:37:22.592 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:37:22.592 [main] Log - 
+[INFO ] 2023-09-02 00:37:28.600 [main] Log - To The Url Is Correct
+[FATAL] 2023-09-02 00:37:28.600 [main] Log - 
+[INFO ] 2023-09-02 00:37:28.600 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:37:28.600 [main] Log - 
+[INFO ] 2023-09-02 00:37:28.600 [main] Log - =====================================clickOndashboardBellicon TEST END=========================================
+[ERROR] 2023-09-02 00:37:28.600 [main] Log - 
+[INFO ] 2023-09-02 00:37:34.596 [main] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:37:34.596 [main] Log - 
+[INFO ] 2023-09-02 00:37:34.596 [main] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 00:37:34.596 [main] Log - 
+[INFO ] 2023-09-02 00:37:40.677 [main] Log - This Is To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:37:40.678 [main] Log - 
+[INFO ] 2023-09-02 00:37:40.678 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:37:40.678 [main] Log - 
+[INFO ] 2023-09-02 00:37:40.678 [main] Log - =====================================headerpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:37:40.678 [main] Log - 
+[INFO ] 2023-09-02 00:37:46.223 [main] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 00:37:46.224 [main] Log - 
+[INFO ] 2023-09-02 00:37:46.225 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:37:46.225 [main] Log - 
+[INFO ] 2023-09-02 00:44:05.847 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:44:05.849 [main] Log - 
+[INFO ] 2023-09-02 00:44:05.866 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:44:05.867 [main] Log - 
+[INFO ] 2023-09-02 00:44:11.556 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:44:11.556 [main] Log - 
+[INFO ] 2023-09-02 00:44:20.231 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:44:20.231 [main] Log - 
+[INFO ] 2023-09-02 00:44:20.232 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:44:20.232 [main] Log - 
+[INFO ] 2023-09-02 00:44:25.905 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:44:25.905 [main] Log - 
+[INFO ] 2023-09-02 00:44:25.927 [main] Log - LoginTest Test Completed
+[FATAL] 2023-09-02 00:44:25.927 [main] Log - 
+[INFO ] 2023-09-02 00:44:25.927 [main] Log - =====================================LoginTest TEST END=========================================
+[ERROR] 2023-09-02 00:44:25.927 [main] Log - 
+[INFO ] 2023-09-02 00:48:02.406 [main] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 00:48:02.410 [main] Log - 
+[INFO ] 2023-09-02 00:48:02.425 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:48:02.426 [main] Log - 
+[INFO ] 2023-09-02 00:48:08.490 [main] Log - To The Url Is Correct
+[FATAL] 2023-09-02 00:48:08.490 [main] Log - 
+[INFO ] 2023-09-02 00:48:08.492 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:48:08.492 [main] Log - 
+[INFO ] 2023-09-02 00:48:08.492 [main] Log - =====================================clickOndashboardBellicon TEST END=========================================
+[ERROR] 2023-09-02 00:48:08.492 [main] Log - 
+[INFO ] 2023-09-02 00:48:22.659 [main] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:48:22.659 [main] Log - 
+[INFO ] 2023-09-02 00:48:22.660 [main] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 00:48:22.660 [main] Log - 
+[INFO ] 2023-09-02 00:48:28.655 [main] Log - This Is To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:48:28.656 [main] Log - 
+[INFO ] 2023-09-02 00:48:28.656 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:48:28.656 [main] Log - 
+[INFO ] 2023-09-02 00:48:28.656 [main] Log - =====================================headerpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:48:28.656 [main] Log - 
+[INFO ] 2023-09-02 00:48:44.379 [main] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 00:48:44.379 [main] Log - 
+[INFO ] 2023-09-02 00:48:44.380 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:48:44.380 [main] Log - 
+[INFO ] 2023-09-02 00:48:49.046 [main] Log - This Is To Confirm If The Url is Correct Or Not
+[FATAL] 2023-09-02 00:48:49.046 [main] Log - 
+[INFO ] 2023-09-02 00:48:49.046 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:48:49.046 [main] Log - 
+[INFO ] 2023-09-02 00:48:49.046 [main] Log - =====================================managePatient TEST END=========================================
+[ERROR] 2023-09-02 00:48:49.046 [main] Log - 
+[INFO ] 2023-09-02 00:49:02.549 [main] Log - =====================================newpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:49:02.549 [main] Log - 
+[INFO ] 2023-09-02 00:49:02.550 [main] Log - User To Enter Their Details
+[FATAL] 2023-09-02 00:49:02.550 [main] Log - 
+[INFO ] 2023-09-02 00:49:08.548 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:49:08.548 [main] Log - 
+[INFO ] 2023-09-02 00:49:08.548 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:49:08.548 [main] Log - 
+[INFO ] 2023-09-02 00:49:08.548 [main] Log - =====================================newpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:49:08.548 [main] Log - 
+[INFO ] 2023-09-02 00:49:24.119 [main] Log - =====================================patientsearch TEST START=========================================
+[INFO ] 2023-09-02 00:49:24.119 [main] Log - 
+[INFO ] 2023-09-02 00:49:24.119 [main] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:49:24.119 [main] Log - 
+[INFO ] 2023-09-02 00:49:29.820 [main] Log - Patient Name In Search To Be Entered Here
+[FATAL] 2023-09-02 00:49:29.820 [main] Log - 
+[INFO ] 2023-09-02 00:49:30.324 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:49:30.324 [main] Log - 
+[INFO ] 2023-09-02 00:49:30.324 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:49:30.324 [main] Log - 
+[INFO ] 2023-09-02 00:49:30.324 [main] Log - =====================================patientsearch TEST END=========================================
+[ERROR] 2023-09-02 00:49:30.324 [main] Log - 
+[INFO ] 2023-09-02 00:49:52.013 [main] Log - =====================================profileAccount TEST START=========================================
+[INFO ] 2023-09-02 00:49:52.013 [main] Log - 
+[INFO ] 2023-09-02 00:49:52.013 [main] Log - User To Enter Their Details 
+[FATAL] 2023-09-02 00:49:52.013 [main] Log - 
+[INFO ] 2023-09-02 00:49:56.896 [main] Log - To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:49:56.896 [main] Log - 
+[INFO ] 2023-09-02 00:49:56.896 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:49:56.897 [main] Log - 
+[INFO ] 2023-09-02 00:49:56.897 [main] Log - =====================================profileAccount TEST END=========================================
+[ERROR] 2023-09-02 00:49:56.897 [main] Log - 
+[INFO ] 2023-09-02 00:50:09.606 [main] Log - =====================================selectPatientDropdown TEST START=========================================
+[INFO ] 2023-09-02 00:50:09.606 [main] Log - 
+[INFO ] 2023-09-02 00:50:09.607 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:50:09.607 [main] Log - 
+[INFO ] 2023-09-02 00:50:15.288 [main] Log - The Action Is Carried Out Here
+[FATAL] 2023-09-02 00:50:15.288 [main] Log - 
+[INFO ] 2023-09-02 00:50:17.014 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:50:17.014 [main] Log - 
+[INFO ] 2023-09-02 00:50:17.014 [main] Log - =====================================selectPatientDropdown TEST END=========================================
+[ERROR] 2023-09-02 00:50:17.014 [main] Log - 
+[INFO ] 2023-09-02 00:50:31.017 [main] Log - =====================================userAccountSignOutBtn TEST START=========================================
+[INFO ] 2023-09-02 00:50:31.018 [main] Log - 
+[INFO ] 2023-09-02 00:50:31.018 [main] Log - User Enters Their Details Here
+[FATAL] 2023-09-02 00:50:31.018 [main] Log - 
+[INFO ] 2023-09-02 00:50:36.037 [main] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:50:36.037 [main] Log - 
+[INFO ] 2023-09-02 00:50:36.037 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:50:36.037 [main] Log - 
+[INFO ] 2023-09-02 00:50:36.037 [main] Log - =====================================userAccountSignOutBtn TEST END=========================================
+[ERROR] 2023-09-02 00:50:36.037 [main] Log - 
+[INFO ] 2023-09-02 00:50:53.214 [main] Log - =====================================verifyDashboardLogo TEST START=========================================
+[INFO ] 2023-09-02 00:50:53.214 [main] Log - 
+[INFO ] 2023-09-02 00:50:53.879 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:50:53.879 [main] Log - 
+[INFO ] 2023-09-02 00:50:57.911 [main] Log - The Test Confirm The Logo Is Present
+[FATAL] 2023-09-02 00:50:57.911 [main] Log - 
+[INFO ] 2023-09-02 00:50:57.911 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:50:57.911 [main] Log - 
+[INFO ] 2023-09-02 00:50:57.911 [main] Log - =====================================verifyDashboardLogo TEST END=========================================
+[ERROR] 2023-09-02 00:50:57.911 [main] Log - 
+[INFO ] 2023-09-02 00:51:13.489 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:51:13.489 [main] Log - 
+[INFO ] 2023-09-02 00:51:13.490 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:51:13.490 [main] Log - 
+[INFO ] 2023-09-02 00:51:18.996 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:51:18.996 [main] Log - 
+[INFO ] 2023-09-02 00:51:35.680 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:51:35.680 [main] Log - 
+[INFO ] 2023-09-02 00:51:35.681 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:51:35.681 [main] Log - 
+[INFO ] 2023-09-02 00:51:41.235 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:51:41.235 [main] Log - 
+[INFO ] 2023-09-02 00:51:41.245 [main] Log - LoginTest Test Completed
+[FATAL] 2023-09-02 00:51:41.245 [main] Log - 
+[INFO ] 2023-09-02 00:51:41.245 [main] Log - =====================================LoginTest TEST END=========================================
+[ERROR] 2023-09-02 00:51:41.245 [main] Log - 
+[INFO ] 2023-09-02 00:51:57.665 [main] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:51:57.666 [main] Log - 
+[INFO ] 2023-09-02 00:51:57.666 [main] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:51:57.667 [main] Log - 
+[INFO ] 2023-09-02 00:52:03.031 [main] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:52:03.031 [main] Log - 
+[INFO ] 2023-09-02 00:52:19.357 [main] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 00:52:19.357 [main] Log - 
+[INFO ] 2023-09-02 00:52:19.450 [main] Log - Logo Confirmed
+[FATAL] 2023-09-02 00:52:19.451 [main] Log - 
+[INFO ] 2023-09-02 00:52:19.451 [main] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 00:52:19.451 [main] Log - 
+[INFO ] 2023-09-02 00:52:19.451 [main] Log - Test Passed
+[FATAL] 2023-09-02 00:52:19.451 [main] Log - 
+[INFO ] 2023-09-02 00:52:19.451 [main] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 00:52:19.451 [main] Log - 
+[INFO ] 2023-09-02 00:57:51.018 [TestNG-tests-3] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:57:51.022 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:57:51.048 [TestNG-tests-3] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:57:51.048 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:57:51.963 [TestNG-tests-1] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 00:57:51.964 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:57:51.965 [TestNG-tests-1] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:57:51.965 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:57:54.035 [TestNG-tests-2] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:57:54.035 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:57:54.036 [TestNG-tests-2] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:57:54.036 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:57:56.849 [TestNG-tests-3] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:57:56.849 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:57:58.447 [TestNG-tests-1] Log - To The Url Is Correct
+[FATAL] 2023-09-02 00:57:58.447 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:57:58.447 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:57:58.448 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:57:58.449 [TestNG-tests-1] Log - =====================================clickOndashboardBellicon TEST END=========================================
+[ERROR] 2023-09-02 00:57:58.449 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:57:59.771 [TestNG-tests-2] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:57:59.771 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:08.502 [TestNG-tests-1] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:58:08.502 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:08.502 [TestNG-tests-1] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 00:58:08.502 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:14.602 [TestNG-tests-1] Log - This Is To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:58:14.602 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:14.602 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:58:14.602 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:14.602 [TestNG-tests-1] Log - =====================================headerpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:58:14.602 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:17.958 [TestNG-tests-3] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:58:17.958 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:17.959 [TestNG-tests-3] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:58:17.959 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:18.011 [TestNG-tests-2] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:58:18.011 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:18.011 [TestNG-tests-2] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:58:18.011 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:23.678 [TestNG-tests-2] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:58:23.678 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:24.129 [TestNG-tests-3] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:58:24.130 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:24.431 [TestNG-tests-3] Log - LoginTest Test Completed
+[FATAL] 2023-09-02 00:58:24.431 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:24.431 [TestNG-tests-3] Log - =====================================LoginTest TEST END=========================================
+[ERROR] 2023-09-02 00:58:24.431 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:24.601 [TestNG-tests-1] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 00:58:24.602 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:24.602 [TestNG-tests-1] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:58:24.602 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:30.727 [TestNG-tests-3] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:58:30.727 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:30.728 [TestNG-tests-3] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:58:30.728 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:32.128 [TestNG-tests-1] Log - This Is To Confirm If The Url is Correct Or Not
+[FATAL] 2023-09-02 00:58:32.128 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:32.128 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:58:32.128 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:32.128 [TestNG-tests-1] Log - =====================================managePatient TEST END=========================================
+[ERROR] 2023-09-02 00:58:32.128 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:36.202 [TestNG-tests-3] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:58:36.202 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:37.650 [TestNG-tests-2] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 00:58:37.650 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:37.651 [TestNG-tests-2] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:58:37.651 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:42.945 [TestNG-tests-1] Log - =====================================newpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 00:58:42.946 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:42.946 [TestNG-tests-1] Log - User To Enter Their Details
+[FATAL] 2023-09-02 00:58:42.946 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:43.072 [TestNG-tests-2] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 00:58:43.072 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:47.145 [TestNG-tests-3] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 00:58:47.145 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:47.227 [TestNG-tests-3] Log - Logo Confirmed
+[FATAL] 2023-09-02 00:58:47.227 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:47.228 [TestNG-tests-3] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 00:58:47.228 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:47.228 [TestNG-tests-3] Log - Test Passed
+[FATAL] 2023-09-02 00:58:47.228 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:47.228 [TestNG-tests-3] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 00:58:47.228 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 00:58:49.214 [TestNG-tests-1] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:58:49.215 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:49.215 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:58:49.215 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:49.215 [TestNG-tests-1] Log - =====================================newpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 00:58:49.215 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:52.547 [TestNG-tests-2] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 00:58:52.547 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - Logo Confirmed
+[FATAL] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - Test Passed
+[FATAL] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 00:58:52.643 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 00:58:58.032 [TestNG-tests-1] Log - =====================================patientsearch TEST START=========================================
+[INFO ] 2023-09-02 00:58:58.033 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:58:58.033 [TestNG-tests-1] Log - User To Enter Details Here
+[FATAL] 2023-09-02 00:58:58.033 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:03.725 [TestNG-tests-1] Log - Patient Name In Search To Be Entered Here
+[FATAL] 2023-09-02 00:59:03.725 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:04.230 [TestNG-tests-1] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:59:04.230 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:04.230 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:59:04.230 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:04.230 [TestNG-tests-1] Log - =====================================patientsearch TEST END=========================================
+[ERROR] 2023-09-02 00:59:04.230 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:15.242 [TestNG-tests-1] Log - =====================================profileAccount TEST START=========================================
+[INFO ] 2023-09-02 00:59:15.242 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:15.242 [TestNG-tests-1] Log - User To Enter Their Details 
+[FATAL] 2023-09-02 00:59:15.242 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:20.088 [TestNG-tests-1] Log - To Confirm The Url Is Correct
+[FATAL] 2023-09-02 00:59:20.089 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:20.089 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:59:20.089 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:20.089 [TestNG-tests-1] Log - =====================================profileAccount TEST END=========================================
+[ERROR] 2023-09-02 00:59:20.089 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:27.666 [TestNG-tests-1] Log - =====================================selectPatientDropdown TEST START=========================================
+[INFO ] 2023-09-02 00:59:27.666 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:27.666 [TestNG-tests-1] Log - User Enters Their Details
+[FATAL] 2023-09-02 00:59:27.666 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:33.359 [TestNG-tests-1] Log - The Action Is Carried Out Here
+[FATAL] 2023-09-02 00:59:33.359 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:33.540 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:59:33.540 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:33.540 [TestNG-tests-1] Log - =====================================selectPatientDropdown TEST END=========================================
+[ERROR] 2023-09-02 00:59:33.540 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:40.142 [TestNG-tests-1] Log - =====================================userAccountSignOutBtn TEST START=========================================
+[INFO ] 2023-09-02 00:59:40.142 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:40.143 [TestNG-tests-1] Log - User Enters Their Details Here
+[FATAL] 2023-09-02 00:59:40.143 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:45.144 [TestNG-tests-1] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 00:59:45.144 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:45.145 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:59:45.145 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:45.145 [TestNG-tests-1] Log - =====================================userAccountSignOutBtn TEST END=========================================
+[ERROR] 2023-09-02 00:59:45.145 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:52.261 [TestNG-tests-1] Log - =====================================verifyDashboardLogo TEST START=========================================
+[INFO ] 2023-09-02 00:59:52.262 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:52.932 [TestNG-tests-1] Log - User Enter Their Details
+[FATAL] 2023-09-02 00:59:52.932 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:56.503 [TestNG-tests-1] Log - The Test Confirm The Logo Is Present
+[FATAL] 2023-09-02 00:59:56.503 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:56.503 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 00:59:56.503 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 00:59:56.503 [TestNG-tests-1] Log - =====================================verifyDashboardLogo TEST END=========================================
+[ERROR] 2023-09-02 00:59:56.503 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:07.690 [TestNG-tests-3] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 01:05:07.694 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:07.723 [TestNG-tests-3] Log - User Enter Their Details
+[FATAL] 2023-09-02 01:05:07.724 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:10.399 [TestNG-tests-2] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 01:05:10.400 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:10.401 [TestNG-tests-2] Log - User Enter Their Details
+[FATAL] 2023-09-02 01:05:10.401 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:12.923 [TestNG-tests-1] Log - =====================================clickOndashboardBellicon TEST START=========================================
+[INFO ] 2023-09-02 01:05:12.924 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:12.925 [TestNG-tests-1] Log - User To Enter Details Here
+[FATAL] 2023-09-02 01:05:12.925 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:13.526 [TestNG-tests-3] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 01:05:13.526 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:16.065 [TestNG-tests-2] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 01:05:16.065 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:19.087 [TestNG-tests-1] Log - To The Url Is Correct
+[FATAL] 2023-09-02 01:05:19.087 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:19.087 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:05:19.087 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:19.087 [TestNG-tests-1] Log - =====================================clickOndashboardBellicon TEST END=========================================
+[ERROR] 2023-09-02 01:05:19.088 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:23.374 [TestNG-tests-3] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 01:05:23.375 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:23.375 [TestNG-tests-3] Log - User Enter Their Details
+[FATAL] 2023-09-02 01:05:23.375 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:24.704 [TestNG-tests-1] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 01:05:24.705 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:24.705 [TestNG-tests-1] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 01:05:24.705 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:29.373 [TestNG-tests-3] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 01:05:29.373 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:29.390 [TestNG-tests-3] Log - LoginTest Test Completed
+[FATAL] 2023-09-02 01:05:29.390 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:29.390 [TestNG-tests-3] Log - =====================================LoginTest TEST END=========================================
+[ERROR] 2023-09-02 01:05:29.390 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:31.001 [TestNG-tests-1] Log - This Is To Confirm The Url Is Correct
+[FATAL] 2023-09-02 01:05:31.001 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:31.001 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:05:31.001 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:31.001 [TestNG-tests-1] Log - =====================================headerpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 01:05:31.001 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:33.299 [TestNG-tests-2] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 01:05:33.299 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:33.300 [TestNG-tests-2] Log - User Enter Their Details
+[FATAL] 2023-09-02 01:05:33.300 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:35.280 [TestNG-tests-3] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 01:05:35.280 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:35.280 [TestNG-tests-3] Log - User Enter Their Details
+[FATAL] 2023-09-02 01:05:35.280 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:38.940 [TestNG-tests-2] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 01:05:38.941 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:38.950 [TestNG-tests-2] Log - LoginTest Test Completed
+[FATAL] 2023-09-02 01:05:38.950 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:38.950 [TestNG-tests-2] Log - =====================================LoginTest TEST END=========================================
+[ERROR] 2023-09-02 01:05:38.950 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:39.351 [TestNG-tests-1] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 01:05:39.352 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:39.352 [TestNG-tests-1] Log - User Enters Their Details
+[FATAL] 2023-09-02 01:05:39.352 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:40.751 [TestNG-tests-3] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 01:05:40.751 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:44.346 [TestNG-tests-1] Log - This Is To Confirm If The Url is Correct Or Not
+[FATAL] 2023-09-02 01:05:44.346 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:44.346 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:05:44.346 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:44.346 [TestNG-tests-1] Log - =====================================managePatient TEST END=========================================
+[ERROR] 2023-09-02 01:05:44.346 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:47.778 [TestNG-tests-3] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 01:05:47.778 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - Logo Confirmed
+[FATAL] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - Test Passed
+[FATAL] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 01:05:47.839 [TestNG-tests-3] Log - 
+[INFO ] 2023-09-02 01:05:49.089 [TestNG-tests-2] Log - =====================================LoginTest TEST START=========================================
+[INFO ] 2023-09-02 01:05:49.089 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:49.089 [TestNG-tests-2] Log - User Enter Their Details
+[FATAL] 2023-09-02 01:05:49.089 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:52.456 [TestNG-tests-1] Log - =====================================newpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 01:05:52.456 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:52.456 [TestNG-tests-1] Log - User To Enter Their Details
+[FATAL] 2023-09-02 01:05:52.457 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:54.465 [TestNG-tests-2] Log - DashBaoard Url Is Confirmed
+[FATAL] 2023-09-02 01:05:54.465 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:05:58.537 [TestNG-tests-1] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 01:05:58.537 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:58.538 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:05:58.538 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:05:58.538 [TestNG-tests-1] Log - =====================================newpatientbtn TEST END=========================================
+[ERROR] 2023-09-02 01:05:58.538 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:06.187 [TestNG-tests-1] Log - =====================================patientsearch TEST START=========================================
+[INFO ] 2023-09-02 01:06:06.187 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:06.188 [TestNG-tests-1] Log - User To Enter Details Here
+[FATAL] 2023-09-02 01:06:06.188 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:06.516 [TestNG-tests-2] Log - =====================================verifylogotest TEST START=========================================
+[INFO ] 2023-09-02 01:06:06.517 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:06:06.632 [TestNG-tests-2] Log - Logo Confirmed
+[FATAL] 2023-09-02 01:06:06.632 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:06:06.632 [TestNG-tests-2] Log - VerifyLogotest Was Successful
+[FATAL] 2023-09-02 01:06:06.633 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:06:06.633 [TestNG-tests-2] Log - Test Passed
+[FATAL] 2023-09-02 01:06:06.633 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:06:06.633 [TestNG-tests-2] Log - =====================================verifylogotest TEST END=========================================
+[ERROR] 2023-09-02 01:06:06.633 [TestNG-tests-2] Log - 
+[INFO ] 2023-09-02 01:06:11.953 [TestNG-tests-1] Log - Patient Name In Search To Be Entered Here
+[FATAL] 2023-09-02 01:06:11.953 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:12.495 [TestNG-tests-1] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 01:06:12.495 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:12.495 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:06:12.495 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:12.495 [TestNG-tests-1] Log - =====================================patientsearch TEST END=========================================
+[ERROR] 2023-09-02 01:06:12.495 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:18.706 [TestNG-tests-1] Log - =====================================profileAccount TEST START=========================================
+[INFO ] 2023-09-02 01:06:18.706 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:18.707 [TestNG-tests-1] Log - User To Enter Their Details 
+[FATAL] 2023-09-02 01:06:18.707 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:22.730 [TestNG-tests-1] Log - To Confirm The Url Is Correct
+[FATAL] 2023-09-02 01:06:22.730 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:22.730 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:06:22.730 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:22.730 [TestNG-tests-1] Log - =====================================profileAccount TEST END=========================================
+[ERROR] 2023-09-02 01:06:22.731 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:32.864 [TestNG-tests-1] Log - =====================================selectPatientDropdown TEST START=========================================
+[INFO ] 2023-09-02 01:06:32.864 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:32.864 [TestNG-tests-1] Log - User Enters Their Details
+[FATAL] 2023-09-02 01:06:32.864 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:38.527 [TestNG-tests-1] Log - The Action Is Carried Out Here
+[FATAL] 2023-09-02 01:06:38.527 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:38.706 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:06:38.706 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:38.706 [TestNG-tests-1] Log - =====================================selectPatientDropdown TEST END=========================================
+[ERROR] 2023-09-02 01:06:38.706 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:44.399 [TestNG-tests-1] Log - =====================================userAccountSignOutBtn TEST START=========================================
+[INFO ] 2023-09-02 01:06:44.399 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:44.400 [TestNG-tests-1] Log - User Enters Their Details Here
+[FATAL] 2023-09-02 01:06:44.400 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:48.286 [TestNG-tests-1] Log - This Is To Confirm The Url
+[FATAL] 2023-09-02 01:06:48.286 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:48.286 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:06:48.286 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:48.286 [TestNG-tests-1] Log - =====================================userAccountSignOutBtn TEST END=========================================
+[ERROR] 2023-09-02 01:06:48.286 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:58.156 [TestNG-tests-1] Log - =====================================verifyDashboardLogo TEST START=========================================
+[INFO ] 2023-09-02 01:06:58.156 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:06:58.803 [TestNG-tests-1] Log - User Enter Their Details
+[FATAL] 2023-09-02 01:06:58.803 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:07:02.312 [TestNG-tests-1] Log - The Test Confirm The Logo Is Present
+[FATAL] 2023-09-02 01:07:02.312 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:07:02.312 [TestNG-tests-1] Log - Test Passed
+[FATAL] 2023-09-02 01:07:02.312 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 01:07:02.313 [TestNG-tests-1] Log - =====================================verifyDashboardLogo TEST END=========================================
+[ERROR] 2023-09-02 01:07:02.313 [TestNG-tests-1] Log - 
+[INFO ] 2023-09-02 23:46:30.716 [main] Log - =====================================headerpatientbtn TEST START=========================================
+[INFO ] 2023-09-02 23:46:30.718 [main] Log - 
+[INFO ] 2023-09-02 23:46:30.738 [main] Log - User To Enter Their Details Here
+[FATAL] 2023-09-02 23:46:30.738 [main] Log - 
+[INFO ] 2023-09-02 23:46:46.313 [main] Log - =====================================managePatient TEST START=========================================
+[INFO ] 2023-09-02 23:46:46.316 [main] Log - 
+[INFO ] 2023-09-02 23:46:46.334 [main] Log - User Enters Their Details
+[FATAL] 2023-09-02 23:46:46.334 [main] Log - 
