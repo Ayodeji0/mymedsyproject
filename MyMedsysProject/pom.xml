@@ -91,11 +91,7 @@
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
 
-		<dependency>
-			<groupId>AutoMedsysProject</groupId>
-			<artifactId>AutoMedsysProject</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+	
 	</dependencies>
 	<!-- All builds for plugins   -->
 	<build>

@@ -11,7 +11,7 @@
         <methods>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="LoginTest" invocation-numbers="0 2"/>
+          <include name="LoginTest" invocation-numbers="0"/>
           <include name="afterSuite"/>
           <include name="loadConfig"/>
         </methods>

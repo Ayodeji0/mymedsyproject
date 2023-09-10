@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>C:\Users\USER\eclipse-workspace\MyMedsysProject\testng_all.xml</span>
+                    <span>C:\Users\USER\git\repository4\MyMedsysProject\testng_all.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">13 methods, 2 failed,   11 passed</span>
+                    <span class="method-stats">12 methods, 1 failed,   11 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -101,11 +101,6 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
                     </span>
                     <div class="method-list-content failed suite-Suite">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.mymedsysproject.testcases.LoginPageTest" class="method navigator-link" hash-for-method="LoginTest(, , )">LoginTest(, , )</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img src="failed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="com.mymedsysproject.testcases.LoginPageTest" class="method navigator-link" hash-for-method="LoginTest(, P@rfect3, BDW20211001)">LoginTest(, P@rfect3, BDW20211001)</a> <!-- method navigator-link -->
@@ -195,25 +190,12 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="LoginTest(, , )">
-                  </a> <!-- LoginTest(, , ) -->
-                  <span class="method-name">LoginTest</span>
-                  <span class="parameters">(,,)</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [https://dev-ehrpm.automedsys.net/dashboard] but found [https://dev-ehrpm.automedsys.net/]
-	at com.mymedsysproject.testcases.LoginPageTest.LoginTest(LoginPageTest.java:61)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 33 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="LoginTest(, P@rfect3, BDW20211001)">
                   </a> <!-- LoginTest(, P@rfect3, BDW20211001) -->
                   <span class="method-name">LoginTest</span>
                   <span class="parameters">(,P@rfect3,BDW20211001)</span>
                   <div class="stack-trace">java.lang.AssertionError: expected [https://dev-ehrpm.automedsys.net/dashboard] but found [https://dev-ehrpm.automedsys.net/]
-	at com.mymedsysproject.testcases.LoginPageTest.LoginTest(LoginPageTest.java:61)
+	at com.mymedsysproject.testcases.LoginPageTest.LoginTest(LoginPageTest.java:64)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
 ... Removed 33 stack frames
 </div> <!-- stack-trace -->
@@ -318,7 +300,7 @@
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\USER\eclipse-workspace\MyMedsysProject\testng_all.xml</span>
+            <span class="header-content">C:\Users\USER\git\repository4\MyMedsysProject\testng_all.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -432,59 +414,55 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(13);
+data.addRows(12);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'clickOndashboardBellicon')
+data.setCell(0, 1, 'patientsearch')
 data.setCell(0, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(0, 3, 11356);
+data.setCell(0, 3, 6701);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'patientsearch')
+data.setCell(1, 1, 'clickOndashboardBellicon')
 data.setCell(1, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(1, 3, 6240);
+data.setCell(1, 3, 6420);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'headerpatientbtn')
 data.setCell(2, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(2, 3, 5987);
+data.setCell(2, 3, 6400);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'newpatientbtn')
 data.setCell(3, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(3, 3, 5980);
+data.setCell(3, 3, 6367);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'selectPatientDropdown')
 data.setCell(4, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(4, 3, 5848);
+data.setCell(4, 3, 6250);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'LoginTest')
 data.setCell(5, 2, 'com.mymedsysproject.testcases.LoginPageTest')
-data.setCell(5, 3, 5797);
+data.setCell(5, 3, 6152);
 data.setCell(6, 0, 6)
 data.setCell(6, 1, 'LoginTest')
 data.setCell(6, 2, 'com.mymedsysproject.testcases.LoginPageTest')
-data.setCell(6, 3, 5686);
+data.setCell(6, 3, 6126);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'LoginTest')
-data.setCell(7, 2, 'com.mymedsysproject.testcases.LoginPageTest')
-data.setCell(7, 3, 5556);
+data.setCell(7, 1, 'profileAccount')
+data.setCell(7, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
+data.setCell(7, 3, 5945);
 data.setCell(8, 0, 8)
-data.setCell(8, 1, 'profileAccount')
+data.setCell(8, 1, 'verifyDashboardLogo')
 data.setCell(8, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(8, 3, 5103);
+data.setCell(8, 3, 5737);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'managePatient')
+data.setCell(9, 1, 'userAccountSignOutBtn')
 data.setCell(9, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(9, 3, 5089);
+data.setCell(9, 3, 5698);
 data.setCell(10, 0, 10)
-data.setCell(10, 1, 'userAccountSignOutBtn')
+data.setCell(10, 1, 'managePatient')
 data.setCell(10, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(10, 3, 4996);
+data.setCell(10, 3, 5497);
 data.setCell(11, 0, 11)
-data.setCell(11, 1, 'verifyDashboardLogo')
-data.setCell(11, 2, 'com.mymedsysproject.testcases.DashboardPageTest')
-data.setCell(11, 3, 4949);
-data.setCell(12, 0, 12)
-data.setCell(12, 1, 'VerifyLogotest')
-data.setCell(12, 2, 'com.mymedsysproject.testcases.LoginPageTest')
-data.setCell(12, 3, 59);
+data.setCell(11, 1, 'VerifyLogotest')
+data.setCell(11, 2, 'com.mymedsysproject.testcases.LoginPageTest')
+data.setCell(11, 3, 79);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
@@ -531,173 +509,159 @@ return data;
               </div> <!-- configuration-suite before -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">1171 ms</span>
+                <span class="method-start">1236 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">LoginTest(, P@rfect3, BDW20211001)</span>
-                <span class="method-start">26586 ms</span>
+                <span class="method-start">19222 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">32554 ms</span>
+                <span class="method-start">25559 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">32734 ms</span>
+                <span class="method-start">25746 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">LoginTest(deji@automedsys.com, P@rfect2, aal20201001)</span>
-                <span class="method-start">40586 ms</span>
+                <span class="method-start">42223 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">46275 ms</span>
+                <span class="method-start">48378 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">46454 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">LoginTest(, , )</span>
-                <span class="method-start">61368 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">67084 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">67216 ms</span>
+                <span class="method-start">48570 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">VerifyLogotest</span>
-                <span class="method-start">79951 ms</span>
+                <span class="method-start">62217 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">80012 ms</span>
+                <span class="method-start">62298 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.mymedsysproject.testcases.DashboardPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">80158 ms</span>
+                <span class="method-start">62467 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">clickOndashboardBellicon</span>
-                <span class="method-start">90958 ms</span>
+                <span class="method-start">76360 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">102316 ms</span>
+                <span class="method-start">82783 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">102439 ms</span>
+                <span class="method-start">82913 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">headerpatientbtn</span>
-                <span class="method-start">118067 ms</span>
+                <span class="method-start">99250 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">124056 ms</span>
+                <span class="method-start">105653 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">124173 ms</span>
+                <span class="method-start">105830 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">managePatient</span>
-                <span class="method-start">136105 ms</span>
+                <span class="method-start">117253 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">141196 ms</span>
+                <span class="method-start">122751 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">141383 ms</span>
+                <span class="method-start">122930 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">newpatientbtn</span>
-                <span class="method-start">149438 ms</span>
+                <span class="method-start">134849 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">155419 ms</span>
+                <span class="method-start">141217 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">155594 ms</span>
+                <span class="method-start">141400 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">patientsearch</span>
-                <span class="method-start">165429 ms</span>
+                <span class="method-start">159034 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">171671 ms</span>
+                <span class="method-start">165737 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">171813 ms</span>
+                <span class="method-start">165918 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">profileAccount</span>
-                <span class="method-start">186936 ms</span>
+                <span class="method-start">178877 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">192040 ms</span>
+                <span class="method-start">184824 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">192218 ms</span>
+                <span class="method-start">185011 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">selectPatientDropdown</span>
-                <span class="method-start">212396 ms</span>
+                <span class="method-start">194617 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">218246 ms</span>
+                <span class="method-start">200869 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">218422 ms</span>
+                <span class="method-start">201070 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">userAccountSignOutBtn</span>
-                <span class="method-start">229422 ms</span>
+                <span class="method-start">215712 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">234419 ms</span>
+                <span class="method-start">221411 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(Chrome)</span>
-                <span class="method-start">234594 ms</span>
+                <span class="method-start">221541 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">verifyDashboardLogo</span>
-                <span class="method-start">251215 ms</span>
+                <span class="method-start">235100 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">256165 ms</span>
+                <span class="method-start">240838 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.mymedsysproject.testcases.LoginPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">afterSuite</span>
-                <span class="method-start">256371 ms</span>
+                <span class="method-start">241052 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

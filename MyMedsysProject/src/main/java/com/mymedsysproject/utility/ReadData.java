@@ -24,42 +24,27 @@ import org.testng.annotations.DataProvider;
  */
 public class ReadData {
 
-	/**
-	 * @param args
-	 * @throws IOException 
-	 * @throws EncryptedDocumentException 
-	 */
-	  
-	  public static void main(String[] args) throws EncryptedDocumentException, IOException {
-	        // TODO: Your code here
-	    }
-        @DataProvider(name ="logindata")
-	    public String[][] getData(Method m) throws EncryptedDocumentException, IOException {
-        	String excelSheetName = m.getName();// This is to mirror the name of the method and the excel so as to refelct on the data
-        	// This method reads the files from the data or excelsheet
-	        File f = new File(System.getProperty("user.dir") + "\\src\\test\\resources\\TestData\\MyTestData.xlsx");
-	        FileInputStream fils = new FileInputStream(f);
-	        Workbook wb = WorkbookFactory.create(fils);
-	        Sheet sheetName = wb.getSheet(excelSheetName);
-	        // This is to get the total rows and column
-	        int totalRows = sheetName.getLastRowNum();
-	       // This is to get the total rows
-	        Row rowCells = sheetName.getRow(0);
-	        int  totalCols =  rowCells.getLastCellNum();
-	       
-	        // This is to format the data to a readable data because data could be integers or string but formating it will make i understandable for the system
-	        DataFormatter format = new DataFormatter();
-	        String testData[][] = new String [totalRows][totalCols];
-	         for(int i=1; i<=totalRows; i++) {
-	        	 for(int j=0; j<totalCols;j++) {
-	        		 testData[i-1][j]=format.formatCellValue(sheetName.getRow(i).getCell(j));
-	        				
-	        	 }
-	         }
-	         
-	         return testData;
-	        
-	       
-	    }
+    @DataProvider(name = "logindata")
+    public Object[][] getData(Method m) throws EncryptedDocumentException, IOException {
+        String excelSheetName = m.getName();
+        File f = new File(System.getProperty("user.dir") + "\\src\\test\\resources\\TestData\\MyTestData.xlsx");
+        FileInputStream fils = new FileInputStream(f);
+        Workbook wb = WorkbookFactory.create(fils);
+        Sheet sheetName = wb.getSheet(excelSheetName);
+        int totalRows = sheetName.getLastRowNum();
+        int totalCols = sheetName.getRow(0).getLastCellNum();
 
+        // Initialize the data array with the correct dimensions
+        Object[][] testData = new Object[totalRows][totalCols];
+
+        DataFormatter format = new DataFormatter();
+        for (int i = 0; i < totalRows; i++) {
+            Row row = sheetName.getRow(i + 1); // Start from 1 to skip the header row
+            for (int j = 0; j < totalCols; j++) {
+                testData[i][j] = format.formatCellValue(row.getCell(j));
+            }
+        }
+
+        return testData;
+    }
 }

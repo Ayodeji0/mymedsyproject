@@ -3,10 +3,8 @@
  */
 package com.mymedsysproject.utility;
 
-import com.mymedsysproject.base.BaseClass;
-
+//import com.mymedsysproject.base.BaseClass;
 import java.io.IOException;
-
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
@@ -19,6 +17,7 @@ import com.mymedsysproject.actiondriver.Action;
  */
 
      public class ExtentManager {
+    	 
 	public static ExtentSparkReporter htmlReporter;
 	public static ExtentReports extent;
 	public static ExtentTest test;
@@ -34,6 +33,8 @@ import com.mymedsysproject.actiondriver.Action;
 			e.printStackTrace();
 		}
 
+		
+		
 		// Initialize the HTML reporter
 		htmlReporter = new ExtentSparkReporter(reportFilePath);
 
@@ -47,10 +48,10 @@ import com.mymedsysproject.actiondriver.Action;
 		extent.attachReporter(htmlReporter);
 
 		// Set system information
-		extent.setSystemInfo("Project", "AutoMedsysProject");
-		extent.setSystemInfo("Tester", "Ayodeji");
-		extent.setSystemInfo("OPERATING SYSTEM", "Win10");
-		extent.setSystemInfo("Browser", "Chrome");
+		extent.setSystemInfo("PROJECT_NAME", "AutoMedsysProject");
+		extent.setSystemInfo("TESTER", "Ayodeji");
+		extent.setSystemInfo("OPERATING_SYSTEM", "Win10");
+		extent.setSystemInfo("BROWSER", "Chrome");
 	}
 
 	public static void endReport() {
@@ -58,3 +59,6 @@ import com.mymedsysproject.actiondriver.Action;
 		extent.flush();
 	}
 }
+     
+     
+     

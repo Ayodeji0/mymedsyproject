@@ -90,11 +90,14 @@ public class BaseClass {
 	  
 	}
 
-	 @AfterSuite
-	 ()
+	 @AfterSuite()
 		public void afterSuite() {
 			ExtentManager.endReport();
 		}
+	/**
+	 * @return
+	 */
+
 	
 	
 //	    For simulating mobile view and tab view we can make use of the four lines of code by getting the variable from config file 
